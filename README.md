@@ -1,2 +1,2 @@
 # Space_shooter
-A space shooter game in Godot
+A space shooter game in Godot as practice.
